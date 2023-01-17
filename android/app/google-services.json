@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "212444625153",
+    "firebase_url": "https://miot-dht11-default-rtdb.firebaseio.com",
+    "project_id": "miot-dht11",
+    "storage_bucket": "miot-dht11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:212444625153:android:cce43403fb6282cdb78300",
+        "android_client_info": {
+          "package_name": "com.example.miot_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "212444625153-eg7583cskm03muln7da3hab0mfbgj2c1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADQ2mP4C1_0WW706TMnY86mGTsXIqIXiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "212444625153-eg7583cskm03muln7da3hab0mfbgj2c1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
